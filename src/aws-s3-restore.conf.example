@@ -1,0 +1,4 @@
+; Copy this file to aws-s3-restore.conf and set your AWS keys below
+[aws]
+key=YOUR_AWS_KEY_HERE
+secret=YOUR_AWS_SECRET_KEY_HERE

@@ -55,3 +55,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Common OS-Specific stuff
+Thumbs.db
+.DS_Store
+
+# Repo-specific stuff
+aws-s3-restore.conf
