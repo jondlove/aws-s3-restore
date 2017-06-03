@@ -3,6 +3,7 @@ Restore a directory structure from Amazon AWS S3
 
 This script allows you to restore files from the remote AWS S3 Bucket from a specified number of days ago, back into the current directory.
 
+Open-sourced with permission
 ## How To Use
 - Copy `src/aws-s3-restore.conf.example` to `src/aws-s3-restore.conf`
 - Add your AWS credentials to `src/aws-s3-restore.conf`
